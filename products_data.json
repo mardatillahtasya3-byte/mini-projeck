@@ -1,0 +1,26 @@
+[
+    {
+        "id": 101,
+        "nama": "Laptop Gaming",
+        "kategori": "Elektronik",
+        "harga": 12500000,
+        "stok": 5,
+        "deskripsi": "Laptop spek tinggi untuk desain dan gaming."
+    },
+    {
+        "id": 102,
+        "nama": "Mouse Wireless",
+        "kategori": "Aksesori",
+        "harga": 150000,
+        "stok": 2,
+        "deskripsi": "Mouse ergobaik tanpa kabel."
+    },
+    {
+        "id": 103,
+        "nama": "Keyboard Mekanikal",
+        "kategori": "Aksesori",
+        "harga": 450000,
+        "stok": 1,
+        "deskripsi": "Keyboard RGB switch biru."
+    }
+]
